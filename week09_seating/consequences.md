@@ -5,4 +5,4 @@ Airlines are testing the use of biometric technology(face and iris scans, or fin
 
 * Using biometric technology to improve passenger experience may come with increased  risks. What happens if hackers get hold of these data stored by airlines?
 
-* While the claim may be true that the manufacturer(s) of this technology do intend to use advanced security measures(encrytpion, firewalls, intrusion prevention, and detection systems) to assure travelers, experts have recently shown how easy it is to steal and replicate digital fingerprints. Facial detection and recognition  have been knwon to be unreliable when used to capture high-quality videos.
+* While the claim may be true that the manufacturer(s) of this technology do intend to use advanced security measures(encrytpion, firewalls, intrusion prevention, and detection systems) to assure travelers, experts have recently shown how easy it is to steal and replicate digital fingerprints. Facial detection and recognition  have been known to be unreliable when used to capture high-quality videos .
